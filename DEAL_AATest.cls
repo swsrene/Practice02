@@ -16,7 +16,6 @@ public with sharing class DEAL_AATest {
      * as required for the component
      * @param  recordId Id of the Opportunity or Engament
      * @return String containing the structure of sections, questions and values for picklists
-     * @author Liliana Trejo
      */
      /*
     @AuraEnabled
